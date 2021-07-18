@@ -1,5 +1,7 @@
 # freelec-springboot2-webservice
 
+## 이곳에는 공부하면서 새로 알게된 것들을 기록합니다 :)
+
 ### Spring 웹 계층
 
 - Web Layer
